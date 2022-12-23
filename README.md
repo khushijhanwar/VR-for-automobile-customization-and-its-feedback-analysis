@@ -1,0 +1,2 @@
+# VR-for-automobile-customization-and-its-feedback-analysis
+In the model text analysis is performed on the feedback which is given on the VR model of a car customization application.This application is built in Unity with help of its XR toolkit.The text analysis is done using NLTK and Scikit learn.Customers will also be able to customize their cars with the help of the features provided in the application.
